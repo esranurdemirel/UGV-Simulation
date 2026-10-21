@@ -1,0 +1,50 @@
+[0.008s] Invoking command in '/home/esranur-demirel/ros_ws/build/marduk_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/esranur-demirel/ros_ws/src/marduk_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/esranur-demirel/ros_ws/install/marduk_description
+[0.016s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.160s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.218s] -- Configuring done (0.2s)
+[0.219s] -- Generating done (0.0s)
+[0.220s] -- Build files have been written to: /home/esranur-demirel/ros_ws/build/marduk_description
+[0.223s] Invoked command in '/home/esranur-demirel/ros_ws/build/marduk_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/esranur-demirel/ros_ws/src/marduk_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/esranur-demirel/ros_ws/install/marduk_description
+[0.223s] Invoking command in '/home/esranur-demirel/ros_ws/build/marduk_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/esranur-demirel/ros_ws/build/marduk_description -- -j16 -l16
+[0.260s] Invoked command in '/home/esranur-demirel/ros_ws/build/marduk_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/esranur-demirel/ros_ws/build/marduk_description -- -j16 -l16
+[0.271s] Invoking command in '/home/esranur-demirel/ros_ws/build/marduk_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/esranur-demirel/ros_ws/build/marduk_description
+[0.281s] -- Install configuration: ""
+[0.282s] -- Execute custom install script
+[0.282s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/launch/description.launch.py
+[0.293s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/bariyer_new.dae
+[0.303s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/base_4.dae
+[0.313s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/chassis.dae
+[0.326s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/cizgiler_new.dae
+[0.337s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_egim.dae
+[0.347s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_engel.dae
+[0.357s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/engebeli_arazi.dae
+[0.367s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/kukalar_new.dae
+[0.375s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/left.dae
+[0.381s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/parkur_new.dae
+[0.390s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/right.dae
+[0.397s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi.dae
+[0.404s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi1.dae
+[0.412s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sudan_gecis.dae
+[0.417s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tabelalar_new.dae
+[0.422s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tasli_cakilli_yol_new.dae
+[0.434s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/wheel.dae
+[0.448s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yan_egim.dae
+[0.460s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yol_new.dae
+[0.467s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/zemin.dae
+[0.477s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/urdf/marduk_ika.urdf
+[0.486s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/package_run_dependencies/marduk_description
+[0.495s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/parent_prefix_path/marduk_description
+[0.505s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.sh
+[0.516s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.dsv
+[0.528s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.sh
+[0.540s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.dsv
+[0.550s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.bash
+[0.561s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.sh
+[0.571s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.zsh
+[0.580s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.dsv
+[0.588s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.dsv
+[0.597s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/packages/marduk_description
+[0.608s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig.cmake
+[0.618s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig-version.cmake
+[0.627s] -- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.xml
+[0.641s] Invoked command in '/home/esranur-demirel/ros_ws/build/marduk_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/esranur-demirel/ros_ws/build/marduk_description

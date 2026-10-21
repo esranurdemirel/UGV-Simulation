@@ -1,0 +1,9 @@
+digraph G {
+"marduk_ika/chassis" -> "marduk_ika/lidar_link/gpu_lidar"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"odom" -> "marduk_ika/chassis"[label=" Broadcaster: default_authority\nAverage rate: 50.368\nBuffer length: 2.72\nMost recent transform: 24.74\nOldest transform: 22.02\n"];
+"map" -> "odom"[label=" Broadcaster: default_authority\nAverage rate: 10.385\nBuffer length: 2.6\nMost recent transform: 25.1\nOldest transform: 22.5\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1780243995.960489"[ shape=plaintext ] ;
+}->"map";
+}

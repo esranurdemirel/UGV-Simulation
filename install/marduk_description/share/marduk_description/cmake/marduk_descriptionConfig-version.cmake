@@ -1,0 +1,1 @@
+/home/esranur-demirel/ros_ws/build/marduk_description/ament_cmake_core/marduk_descriptionConfig-version.cmake

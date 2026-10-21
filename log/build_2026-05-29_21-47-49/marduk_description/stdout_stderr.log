@@ -1,0 +1,45 @@
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/esranur-demirel/ros_ws/build/marduk_description
+-- Install configuration: ""
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/launch
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/launch/description.launch.py
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sudan_gecis.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yol_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/cizgiler_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/zemin.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/base_4.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/parkur_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yan_egim.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/wheel.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/left.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_engel.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tabelalar_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tasli_cakilli_yol_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/bariyer_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/right.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_egim.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/engebeli_arazi.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/chassis.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/kukalar_new.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi1.dae
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/urdf
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/urdf/marduk_ika.urdf
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/package_run_dependencies/marduk_description
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/parent_prefix_path/marduk_description
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.sh
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.dsv
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.sh
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.dsv
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.bash
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.sh
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.zsh
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.dsv
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.dsv
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/packages/marduk_description
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig.cmake
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig-version.cmake
+-- Installing: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.xml

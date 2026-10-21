@@ -1,0 +1,41 @@
+slam_toolbox:
+  ros__parameters:
+    # 1. Zaman Senkronizasyonu
+    use_sim_time: true
+    
+    # 2. Koordinat ve İsimlendirme Eşlemeleri (En Kritik Kısım)
+    # Gazebo'daki diferansiyel sürüş eklentin "marduk_ika/chassis" bastığı için base_frame tam olarak bu olmalı:
+    base_frame: marduk_ika/chassis
+    odom_frame: odom
+    map_frame: map
+    scan_topic: /scan
+    mode: mapping
+
+    use_odometry: true
+
+    skew_transform_time: 0.05
+
+
+    resolution: 0.05
+    # 3. Harita Güncelleme ve Tetikleme Limitleri
+    map_update_interval: 0.2  # Haritayı saniyede 5 kez zorla güncellesin
+    max_laser_range: 12.0
+    minimum_time_interval: 0.02
+    transform_timeout: 0.2
+    tf_buffer_duration: 20.0
+
+    odometry_linear_covariance: 0.05
+    odometry_angular_covariance: 0.001
+    coarse_search_angle_offset: 0.349
+  
+    transform_publish_period: 0.02
+    transform_timeout: 1.0
+
+    minimum_travel_distance: 0.1  # Robot her 10 cm gittiğinde haritayı günceller (Eski değer muhtemelen büyüktü)
+    minimum_travel_heading: 0.01  # Robot her ~3 derece döndüğünde haritayı günceller (Dönüşlerdeki kaymayı bitirir)
+    
+# Kilitlenme (Loop Closure) optimizasyonunu agresifleştirelim
+    loop_search_maximum_distance: 5.0
+    do_loop_closing: true
+    loop_match_minimum_chain_size: 5
+    loop_match_maximum_variance_coar: 0.3

@@ -1,0 +1,2 @@
+Invoking command in '/home/esranur-demirel/ros_ws/build/marduk_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/esranur-demirel/ros_ws/src/marduk_description -DCMAKE_INSTALL_PREFIX=/home/esranur-demirel/ros_ws/install/marduk_description
+Invoked command in '/home/esranur-demirel/ros_ws/build/marduk_description' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/esranur-demirel/ros_ws/src/marduk_description -DCMAKE_INSTALL_PREFIX=/home/esranur-demirel/ros_ws/install/marduk_description

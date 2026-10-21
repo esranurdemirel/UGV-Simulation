@@ -1,0 +1,4 @@
+source;share/marduk_description/local_setup.bash
+source;share/marduk_description/local_setup.dsv
+source;share/marduk_description/local_setup.sh
+source;share/marduk_description/local_setup.zsh

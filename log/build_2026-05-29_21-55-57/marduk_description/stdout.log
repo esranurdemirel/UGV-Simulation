@@ -1,0 +1,44 @@
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/esranur-demirel/ros_ws/build/marduk_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/launch/description.launch.py
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/bariyer_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/base_4.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/chassis.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/cizgiler_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_egim.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/dik_engel.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/engebeli_arazi.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/kukalar_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/left.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/parkur_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/right.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sasi1.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/sudan_gecis.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tabelalar_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/tasli_cakilli_yol_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/wheel.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yan_egim.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/yol_new.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/meshes/zemin.dae
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/urdf/marduk_ika.urdf
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/package_run_dependencies/marduk_description
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/parent_prefix_path/marduk_description
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.sh
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/environment/path.dsv
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.bash
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.sh
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.zsh
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/local_setup.dsv
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.dsv
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/ament_index/resource_index/packages/marduk_description
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig.cmake
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/cmake/marduk_descriptionConfig-version.cmake
+-- Symlinking: /home/esranur-demirel/ros_ws/install/marduk_description/share/marduk_description/package.xml

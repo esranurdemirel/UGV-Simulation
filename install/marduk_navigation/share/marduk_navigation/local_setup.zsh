@@ -1,0 +1,1 @@
+/home/esranur-demirel/ros_ws/build/marduk_navigation/ament_cmake_environment_hooks/local_setup.zsh
